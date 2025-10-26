@@ -1,4 +1,6 @@
 # 🕹️UI-Plaground
+If you want to share the link:  <a href = "https://revati-n.github.io/UI-Playground/"> this link</a>. 
+
  A collection of random, aesthetic, and multiple inspired UI designs — just for fun and creative practice.
 Each mini-site lives here as its own small world 🌍
 
